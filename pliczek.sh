@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Dupa 2"
 echo "dupa 3"
+echo "dupa "
